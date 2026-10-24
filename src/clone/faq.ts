@@ -1,0 +1,22 @@
+export const FAQ_ANSWERS: string[] = [
+ "Our portfolio includes rice bran, broken rice, DORB, yellow maize, feed grade corn, soybean meal, Soy DOC, mustard DOC, cotton DOC and sunflower DOC, subject to seasonal and regional availability.",
+ "We serve poultry, cattle, fish, goat, swine and pet feed businesses, animal nutrition companies, commercial feed plants, distributors, exporters and other institutional bulk buyers.",
+ "Yes. Nationwide distribution is arranged according to product origin, order size, destination access, freight availability and mutually agreed delivery terms.",
+ "Please share the product, quantity, required parameters, packaging, delivery location, expected schedule and any plant-specific receiving or documentation requirements.",
+ "Recurring programmes can be planned after reviewing consumption, seasonality, acceptable origins, lead time, storage capacity and commercial terms.",
+ "Both options may be available depending on the product, origin, quantity, transport method and customer requirement. Packaging is confirmed in the quotation.",
+ "We align specifications, review suppliers and origins, inspect relevant physical characteristics and coordinate testing where required by the product or agreement.",
+ "Relevant laboratory testing can be coordinated according to agreed parameters, sampling protocol, product type and commercial terms.",
+ "We review customer specifications against available origins and processing sources. Feasibility and applicable tolerances are confirmed before order acceptance.",
+ "Price is influenced by product, crop season, origin, specification, quantity, packaging, freight, taxes, payment terms and current market availability.",
+ "Quotation validity is stated in the offer because commodity and freight markets can move quickly. Confirmation within the stated period helps protect availability.",
+ "Timelines depend on stock status, origin, testing, packaging, vehicle placement, destination and order terms. A realistic schedule is provided during confirmation.",
+ "Most materials require dry, ventilated, hygienic and pest-controlled storage with appropriate segregation, stacking and stock rotation. Product-specific guidance should also be followed.",
+ "Multi-product procurement can be discussed, although origins, loading points, compatibility, vehicle economics and delivery schedules determine the most practical arrangement.",
+ "Yes. We can discuss origin sourcing, consolidation, packaging and dispatch support for export-oriented buyers, subject to product and documentation requirements.",
+ "Structured supply arrangements may be developed after reviewing forecast volume, pricing mechanism, acceptable origins, specifications and delivery programme.",
+ "We review alternative origins, procurement timing, available inventory and suitable product options, while clearly communicating potential changes in specification, price or lead time.",
+ "Sample availability depends on the product, source and proposed order. A sample represents the identified lot or source and should be evaluated under an agreed process.",
+ "Please notify us promptly with order details, photographs, weighment or test information as relevant. We review the facts and work toward a fair, documented resolution.",
+ "Submit an enquiry with your requirement and contact details. Our team will review product fit, availability, specifications and logistics before proposing the next steps."
+];
