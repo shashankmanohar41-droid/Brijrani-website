@@ -19,7 +19,7 @@ export function PageHero({
   children,
 }: PageHeroProps) {
   return (
-    <div className="relative overflow-hidden border-b border-[#DCEBDD] bg-gradient-to-b from-[#FFFDF9] via-[#F8FDF9] to-[#EFF7F0]/40 pb-16 pt-32 sm:pb-20 sm:pt-36">
+    <div className="relative overflow-hidden border-b border-[#DCEBDD] bg-gradient-to-b from-[#FFFDF9] via-[#F8FDF9] to-[#EFF7F0]/40 pb-12 pt-24 sm:pb-16 sm:pt-32 lg:pb-20 lg:pt-36">
       {/* Decorative ambient background blur spots */}
       <div className="pointer-events-none absolute -right-20 -top-20 h-96 w-96 rounded-full bg-emerald-500/10 blur-[130px]" />
       <div className="pointer-events-none absolute -left-20 bottom-0 h-80 w-80 rounded-full bg-[#F28C28]/10 blur-[130px]" />

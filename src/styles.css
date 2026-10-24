@@ -25,6 +25,13 @@
   object-fit: cover;
 }
 
+/* Ensure mobile menu button is hidden on desktop screens */
+@media (min-width: 1024px) {
+  .lg\:hidden {
+    display: none !important;
+  }
+}
+
 @custom-variant dark (&:is(.dark *));
 
 /*
